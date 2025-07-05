@@ -14,7 +14,7 @@ A powerful full-stack, AI-powered resume builder designed to streamline the resu
 **Backend:**  
 - 🌐 Node.js + Express  
 - 🍃 MongoDB (Database)  
-- 🤖 OpenAI/LLM Integration (Smart Resume Generation)
+- 🤖 GEMINI-AI/LLM Integration (Smart Resume Generation)
 
 **Dev Tools:**  
 - 📦 NPM  
