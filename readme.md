@@ -101,10 +101,4 @@ Make sure you have the following installed:
 
 ---
 
-## 📬 Contact
-
-For feedback, issues, or contributions, feel free to open an issue or reach out on [GitHub Discussions](https://github.com/Dharmiklakhankiya/Nirvana-Nihilation/discussions).
-
----
-
 ## 🧠 Powered by Intelligence. Built for Impact.
