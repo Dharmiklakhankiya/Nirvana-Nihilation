@@ -1,0 +1,46 @@
+# 🚫 Node modules — never commit this beast
+node_modules/
+
+# ⚙️ Environment variables — keep secrets secret
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# 🗑 Logs & Debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 📦 Dependency locks (optional, if you don’t want to commit them)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# 💣 OS and editor cruft
+.DS_Store
+Thumbs.db
+
+# 🧪 Testing / coverage outputs
+coverage/
+.nyc_output/
+
+# 🧠 VSCode settings (optional)
+.vscode/
+
+# 🧪 Jest snapshots (if using Jest)
+*.snap
+
+# 📂 Build / dist folders (if you ever compile anything)
+dist/
+build/
+
+# 🔧 PM2 / process manager dumps
+pids/
+*.pid
+*.seed
+*.pid.lock
